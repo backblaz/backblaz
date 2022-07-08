@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @backblaz
-- 👀 I’m interested in to become a Data Analyst
-- 🌱 I’m currently learning basic pyton, R Studios, and SQL
+- and my name is Ahmad Rafi Muzakki
+- 👀 I’m really interested to become a Data Analyst
+- 🌱  currently learning basic pyton, R Studios, and SQL
 
