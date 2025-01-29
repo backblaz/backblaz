@@ -6,7 +6,7 @@
 
 ## Projects
 
-[Project 1] (NFL_analysis.ipynb)
+[Project 1] ([NFL_analysis.ipynb](https://colab.research.google.com/drive/1rtH8sXisdxDqgC7AdMjJ5HrJ49eGkGFx?usp=sharing))
 ## EDA Using NFL Datasets ##
 📌 Description
 This project explores and analyzes NFL datasets using Python. The goal is to practice different data analysis techniques and gain insights into player performance, team statistics, and game outcomes.
@@ -28,7 +28,7 @@ Interactive visualizations
 Insights into NFL statistics
 Predictive models on player/team performance 
 
-[Project 2] (Us_food_Agriculture.ipynb)
+[Project 2] (Us_food_Agriculture.ipynb) https://colab.research.google.com/drive/1YVO1ra00yYZAahD8RgmmLdhGujCLGYB2?usp=sharing
 ## EDA Using US Food Agriculture Dataset ##
 📌 Description
 This project focuses on analyzing food production and agricultural trends in the US. The aim is to explore the dataset, visualize key trends, and apply basic machine learning models to understand patterns in the agriculture sector.
@@ -50,7 +50,7 @@ Data-driven insights into US agriculture
 Charts and visualizations
 Simple machine learning models 
 
-[Project_3] (Bank_Churners_analysis.ipynb)
+[Project_3] (Bank_Churners_analysis.ipynb) https://colab.research.google.com/drive/1VHCX0iR6-b9rINhuGLxsk6En5EXwBpmh?usp=sharing
 ## EDA Using Bank Churn Dataset ##
 📌 Description
 This project analyzes customer churn in the banking sector. The goal is to identify key factors contributing to customer churn and apply machine learning techniques to predict potential churners.
