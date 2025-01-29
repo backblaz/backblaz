@@ -72,6 +72,8 @@ Data-driven customer insights
 Visual representation of churn patterns
 Predictive models for churn analysis
 
+### And within several others project
+
 ## Skills
 - Python
 - R Studio
