@@ -50,8 +50,8 @@ Data-driven customer insights Visual representation of churn patterns Predictive
 - SQL
 
 ## Contact ##
--LinkedIn
--[Email] - aahmadrafi26@gmail.com
+- LinkedIn - https://www.linkedin.com/in/ahmadrafimuzakki/
+- Email  aahmadrafi26@gmail.com
 
 
 Welcome to my GitHub profile.
