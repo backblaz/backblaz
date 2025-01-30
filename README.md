@@ -2,7 +2,8 @@
 My name is Ahmad Rafi Muzakki
 👀 I’m really interested in becoming a Data Analyst
 🌱 I’m currently at intermediate level in Python, R Studio, and SQL
-Projects
+
+##Projects
 [Project 1] (NFL_analysis.ipynb)
 
 EDA Using NFL Datasets
